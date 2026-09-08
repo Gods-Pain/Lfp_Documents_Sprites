@@ -1,0 +1,30 @@
+{"index":1,"gold_shop_id":"gold_1000","goldshop":true,"goldshop_now":true,"id":"gold1","itemid":"","name_reward":"","typeItem":"gold","usingprocess":"","count":1000}
+{"index":2,"gold_shop_id":"gold_2000","goldshop":true,"goldshop_now":true,"id":"gold2","itemid":"","name_reward":"","typeItem":"gold","usingprocess":"","count":2000}
+{"index":3,"gold_shop_id":"gold_5000","goldshop":true,"goldshop_now":true,"id":"gold3","itemid":"","name_reward":"","typeItem":"gold","usingprocess":"","count":5000}
+{"index":4,"gold_shop_id":"gold_10000","goldshop":true,"goldshop_now":true,"id":"gold4","itemid":"","name_reward":"","typeItem":"gold","usingprocess":"","count":10000}
+{"index":5,"gold_shop_id":"gold_20000","goldshop":true,"goldshop_now":true,"id":"gold5","itemid":"","name_reward":"","typeItem":"gold","usingprocess":"","count":20000}
+{"index":6,"gold_shop_id":"silver_20000","goldshop":true,"goldshop_now":true,"id":"gold6","itemid":"","name_reward":"","typeItem":"silver","usingprocess":"","count":20000}
+{"index":7,"gold_shop_id":"silver_40000","goldshop":true,"goldshop_now":true,"id":"gold7","itemid":"","name_reward":"","typeItem":"silver","usingprocess":"","count":40000}
+{"index":8,"gold_shop_id":"silver_60000","goldshop":true,"goldshop_now":true,"id":"gold8","itemid":"","name_reward":"","typeItem":"silver","usingprocess":"","count":60000}
+{"index":9,"gold_shop_id":"silver_80000","goldshop":true,"goldshop_now":true,"id":"gold9","itemid":"","name_reward":"","typeItem":"silver","usingprocess":"","count":80000}
+{"index":10,"gold_shop_id":"silver_100000","goldshop":true,"goldshop_now":true,"id":"gold10","itemid":"","name_reward":"","typeItem":"silver","usingprocess":"","count":100000}
+{"index":11,"gold_shop_id":"skill_20","goldshop":true,"goldshop_now":true,"id":"gold11","itemid":"bk18","name_reward":"большая книга скила","typeItem":"book","usingprocess":"","count":20}
+{"index":12,"gold_shop_id":"skill_50","goldshop":true,"goldshop_now":true,"id":"gold12","itemid":"bk18","name_reward":"большая книга скила","typeItem":"book","usingprocess":"","count":50}
+{"index":13,"gold_shop_id":"skill_100","goldshop":true,"goldshop_now":true,"id":"gold13","itemid":"bk18","name_reward":"большая книга скила","typeItem":"book","usingprocess":"","count":100}
+{"index":14,"gold_shop_id":"bkb_20","goldshop":true,"goldshop_now":true,"id":"gold14","itemid":"z14","name_reward":"большой камень бесконечности","typeItem":"item","usingprocess":"","count":20}
+{"index":15,"gold_shop_id":"bkb_50","goldshop":true,"goldshop_now":true,"id":"gold15","itemid":"z14","name_reward":"большой камень бесконечности","typeItem":"item","usingprocess":"","count":50}
+{"index":16,"gold_shop_id":"bkb_100","goldshop":true,"goldshop_now":true,"id":"gold16","itemid":"z14","name_reward":"большой камень бесконечности","typeItem":"item","usingprocess":"","count":100}
+{"index":17,"gold_shop_id":"","goldshop":false,"goldshop_now":false,"id":"gold17","itemid":"","name_reward":"","typeItem":"","usingprocess":"","count":0}
+{"index":18,"gold_shop_id":"","goldshop":false,"goldshop_now":false,"id":"gold18","itemid":"","name_reward":"","typeItem":"","usingprocess":"","count":0}
+{"index":19,"gold_shop_id":"","goldshop":false,"goldshop_now":false,"id":"gold19","itemid":"","name_reward":"","typeItem":"","usingprocess":"","count":0}
+{"index":20,"gold_shop_id":"","goldshop":false,"goldshop_now":false,"id":"gold20","itemid":"","name_reward":"","typeItem":"","usingprocess":"","count":0}
+{"index":21,"gold_shop_id":"","goldshop":false,"goldshop_now":false,"id":"gold21","itemid":"","name_reward":"","typeItem":"","usingprocess":"","count":0}
+{"index":22,"gold_shop_id":"","goldshop":false,"goldshop_now":false,"id":"gold22","itemid":"","name_reward":"","typeItem":"","usingprocess":"","count":0}
+{"index":23,"gold_shop_id":"","goldshop":false,"goldshop_now":false,"id":"gold23","itemid":"","name_reward":"","typeItem":"","usingprocess":"","count":0}
+{"index":24,"gold_shop_id":"","goldshop":false,"goldshop_now":false,"id":"gold24","itemid":"","name_reward":"","typeItem":"","usingprocess":"","count":0}
+{"index":25,"gold_shop_id":"","goldshop":false,"goldshop_now":false,"id":"gold25","itemid":"","name_reward":"","typeItem":"","usingprocess":"","count":0}
+{"index":26,"gold_shop_id":"","goldshop":false,"goldshop_now":false,"id":"gold26","itemid":"","name_reward":"","typeItem":"","usingprocess":"","count":0}
+{"index":27,"gold_shop_id":"","goldshop":false,"goldshop_now":false,"id":"gold27","itemid":"","name_reward":"","typeItem":"","usingprocess":"","count":0}
+{"index":28,"gold_shop_id":"","goldshop":false,"goldshop_now":false,"id":"gold28","itemid":"","name_reward":"","typeItem":"","usingprocess":"","count":0}
+{"index":29,"gold_shop_id":"","goldshop":false,"goldshop_now":false,"id":"gold29","itemid":"","name_reward":"","typeItem":"","usingprocess":"","count":0}
+{"index":30,"gold_shop_id":"","goldshop":false,"goldshop_now":false,"id":"gold30","itemid":"","name_reward":"","typeItem":"","usingprocess":"","count":0}

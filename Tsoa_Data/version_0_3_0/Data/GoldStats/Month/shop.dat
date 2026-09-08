@@ -1,0 +1,12 @@
+{"index":1,"gold_shop_id":"","id":"month1","itemid":"","name_reward":"","typeItem":"silver","usingprocess":"past","count":10000}
+{"index":2,"gold_shop_id":"","id":"month2","itemid":"","name_reward":"","typeItem":"gold","usingprocess":"past","count":2000}
+{"index":3,"gold_shop_id":"","id":"month3","itemid":"","name_reward":"","typeItem":"silver","usingprocess":"past","count":10000}
+{"index":4,"gold_shop_id":"","id":"month4","itemid":"h1","name_reward":"темный капюшон разбойника","typeItem":"item","usingprocess":"past","count":1}
+{"index":5,"gold_shop_id":"","id":"month5","itemid":"","name_reward":"","typeItem":"gold","usingprocess":"past","count":2000}
+{"index":6,"gold_shop_id":"","id":"month6","itemid":"p4","name_reward":"темные усиленные штаны разбойника","typeItem":"item","usingprocess":"past","count":1}
+{"index":7,"gold_shop_id":"","id":"month7","itemid":"","name_reward":"","typeItem":"silver","usingprocess":"past","count":10000}
+{"index":8,"gold_shop_id":"","id":"month8","itemid":"b4","name_reward":"темные ботинки разбойника усиленные","typeItem":"item","usingprocess":"now","count":1}
+{"index":9,"gold_shop_id":"","id":"month9","itemid":"","name_reward":"","typeItem":"gold","usingprocess":"future","count":2000}
+{"index":10,"gold_shop_id":"","id":"month10","itemid":"w21","name_reward":"короткий меч паладина","typeItem":"item","usingprocess":"future","count":1}
+{"index":11,"gold_shop_id":"","id":"month11","itemid":"","name_reward":"","typeItem":"silver","usingprocess":"future","count":10000}
+{"index":12,"gold_shop_id":"","id":"month12","itemid":"w24","name_reward":"посох эльфов","typeItem":"item","usingprocess":"future","count":1}

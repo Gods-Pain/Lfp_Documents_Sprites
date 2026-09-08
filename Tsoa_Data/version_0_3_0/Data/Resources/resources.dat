@@ -1,0 +1,113 @@
+{"Id":"res1","typecost":"silver","cost_buy":100,"cost_sell":10,"probably":50.0,"Name":"Стальная пыль"}
+{"Id":"res2","typecost":"silver","cost_buy":200,"cost_sell":20,"probably":25.0,"Name":"Бронзовая пыль"}
+{"Id":"res3","typecost":"silver","cost_buy":300,"cost_sell":30,"probably":10.0,"Name":"Серебрянная пыль"}
+{"Id":"res4","typecost":"gold","cost_buy":10,"cost_sell":1,"probably":5.0,"Name":"Золотая пыль"}
+{"Id":"res5","typecost":"silver","cost_buy":10,"cost_sell":1,"probably":75.0,"Name":"Желе"}
+{"Id":"res6","typecost":"silver","cost_buy":10,"cost_sell":1,"probably":75.0,"Name":"Трава"}
+{"Id":"res7","typecost":"silver","cost_buy":10,"cost_sell":1,"probably":50.0,"Name":"Кожа"}
+{"Id":"res8","typecost":"silver","cost_buy":1000,"cost_sell":100,"probably":50.0,"Name":"Прах вампира"}
+{"Id":"res9","typecost":"silver","cost_buy":1000,"cost_sell":100,"probably":50.0,"Name":"Стальной слиток"}
+{"Id":"res10","typecost":"silver","cost_buy":2000,"cost_sell":200,"probably":25.0,"Name":"Бронзовый слиток"}
+{"Id":"res11","typecost":"silver","cost_buy":3000,"cost_sell":300,"probably":10.0,"Name":"Серебряный слиток"}
+{"Id":"res12","typecost":"gold","cost_buy":50,"cost_sell":5,"probably":5.0,"Name":"Золотой слиток"}
+{"Id":"res13","typecost":"gold","cost_buy":200,"cost_sell":20,"probably":0.10,"Name":"Адамантитовый слиток"}
+{"Id":"res14","typecost":"gold","cost_buy":500,"cost_sell":50,"probably":0.10,"Name":"Платиновый слиток"}
+{"Id":"res15","typecost":"gold","cost_buy":50,"cost_sell":5,"probably":10.0,"Name":"Ядро друида"}
+{"Id":"res16","typecost":"gold","cost_buy":50,"cost_sell":5,"probably":10.0,"Name":"Черный цветок"}
+{"Id":"res17","typecost":"gold","cost_buy":50,"cost_sell":5,"probably":10.0,"Name":"Плод эволюции"}
+{"Id":"res18","typecost":"silver","cost_buy":10,"cost_sell":1,"probably":75.0,"Name":"Кости"}
+{"Id":"res19","typecost":"silver","cost_buy":10,"cost_sell":1,"probably":75.0,"Name":"Мясо"}
+{"Id":"res20","typecost":"silver","cost_buy":10,"cost_sell":1,"probably":75.0,"Name":"Злаки"}
+{"Id":"res21","typecost":"silver","cost_buy":500,"cost_sell":50,"probably":50.0,"Name":"Кровь вампиры"}
+{"Id":"res22","typecost":"gold","cost_buy":50,"cost_sell":5,"probably":25.0,"Name":"Бронзовый переплет"}
+{"Id":"res23","typecost":"gold","cost_buy":75,"cost_sell":7,"probably":10.0,"Name":"Серебряный переплет"}
+{"Id":"res24","typecost":"gold","cost_buy":100,"cost_sell":10,"probably":5.0,"Name":"Золотой переплет"}
+{"Id":"res25","typecost":"gold","cost_buy":50,"cost_sell":5,"probably":25.0,"Name":"Бронзовая бумага"}
+{"Id":"res26","typecost":"gold","cost_buy":75,"cost_sell":7,"probably":10.0,"Name":"Серебряная бумага"}
+{"Id":"res27","typecost":"gold","cost_buy":100,"cost_sell":10,"probably":5.0,"Name":"Золотая бумага"}
+{"Id":"res28","typecost":"gold","cost_buy":50,"cost_sell":5,"probably":25.0,"Name":"Бронзовые чернила"}
+{"Id":"res29","typecost":"gold","cost_buy":75,"cost_sell":7,"probably":10.0,"Name":"Серебряные чернила"}
+{"Id":"res30","typecost":"gold","cost_buy":100,"cost_sell":10,"probably":5.0,"Name":"Золотые чернила"}
+{"Id":"res31","typecost":"gold","cost_buy":100,"cost_sell":10,"probably":10.0,"Name":"Значок книги опыта"}
+{"Id":"res32","typecost":"gold","cost_buy":100,"cost_sell":10,"probably":10.0,"Name":"Значок книги души"}
+{"Id":"res33","typecost":"gold","cost_buy":100,"cost_sell":10,"probably":10.0,"Name":"Значок книги потенциала"}
+{"Id":"res34","typecost":"gold","cost_buy":100,"cost_sell":10,"probably":10.0,"Name":"Значок книги эволюции"}
+{"Id":"res35","typecost":"gold","cost_buy":100,"cost_sell":10,"probably":10.0,"Name":"Значок книги ядра"}
+{"Id":"res36","typecost":"gold","cost_buy":100,"cost_sell":10,"probably":10.0,"Name":"Значок книги скилла"}
+{"Id":"res37","typecost":"silver","cost_buy":10,"cost_sell":1,"probably":100.0,"Name":"Дерево"}
+{"Id":"res38","typecost":"silver","cost_buy":50,"cost_sell":5,"probably":50.0,"Name":"Кровь гуля"}
+{"Id":"res39","typecost":"silver","cost_buy":50,"cost_sell":5,"probably":50.0,"Name":"Кровь паука"}
+{"Id":"res40","typecost":"silver","cost_buy":50,"cost_sell":5,"probably":10.0,"Name":"Стальные скобки"}
+{"Id":"res41","typecost":"gold","cost_buy":50,"cost_sell":10,"probably":5.0,"Name":"Бронзовые скобки"}
+{"Id":"res42","typecost":"gold","cost_buy":75,"cost_sell":7,"probably":1.0,"Name":"Серебряные скобки"}
+{"Id":"res43","typecost":"gold","cost_buy":100,"cost_sell":100,"probably":0.10,"Name":"Золотые скобки"}
+{"Id":"res44","typecost":"gold","cost_buy":50,"cost_sell":50,"probably":5.0,"Name":"Бронзовые нитки"}
+{"Id":"res45","typecost":"gold","cost_buy":75,"cost_sell":7,"probably":1.0,"Name":"Серебряные нитки"}
+{"Id":"res46","typecost":"gold","cost_buy":100,"cost_sell":10,"probably":0.10,"Name":"Золотые нитки"}
+{"Id":"res47","typecost":"silver","cost_buy":10,"cost_sell":1,"probably":50.0,"Name":"Уголь"}
+{"Id":"res48","typecost":"silver","cost_buy":1500,"cost_sell":150,"probably":10.0,"Name":"Зародыш коричневой крысы"}
+{"Id":"res49","typecost":"silver","cost_buy":2000,"cost_sell":200,"probably":10.0,"Name":"Зародыш черной крысы"}
+{"Id":"res50","typecost":"silver","cost_buy":2500,"cost_sell":250,"probably":10.0,"Name":"Зародыш белой крысы"}
+{"Id":"res51","typecost":"silver","cost_buy":3000,"cost_sell":300,"probably":10.0,"Name":"Зародыш серой лисы"}
+{"Id":"res52","typecost":"silver","cost_buy":3500,"cost_sell":350,"probably":10.0,"Name":"Зародыш рыжей лисы"}
+{"Id":"res53","typecost":"silver","cost_buy":4000,"cost_sell":400,"probably":10.0,"Name":"Зародыш черной лисы"}
+{"Id":"res54","typecost":"silver","cost_buy":4500,"cost_sell":450,"probably":10.0,"Name":"Зародыш белой лисы"}
+{"Id":"res55","typecost":"silver","cost_buy":5000,"cost_sell":500,"probably":10.0,"Name":"Зародыш серого волка"}
+{"Id":"res56","typecost":"silver","cost_buy":5500,"cost_sell":550,"probably":10.0,"Name":"Зародыш коричневого волка"}
+{"Id":"res57","typecost":"silver","cost_buy":6000,"cost_sell":600,"probably":10.0,"Name":"Зародыш черного волка"}
+{"Id":"res58","typecost":"silver","cost_buy":6500,"cost_sell":650,"probably":10.0,"Name":"Зародыш белого волка"}
+{"Id":"res59","typecost":"silver","cost_buy":7000,"cost_sell":700,"probably":10.0,"Name":"Зародыш серого медведя"}
+{"Id":"res60","typecost":"silver","cost_buy":7500,"cost_sell":750,"probably":10.0,"Name":"Зародыш коричневого медведя"}
+{"Id":"res61","typecost":"silver","cost_buy":8000,"cost_sell":800,"probably":10.0,"Name":"Зародыш черного медведя"}
+{"Id":"res62","typecost":"silver","cost_buy":8500,"cost_sell":850,"probably":10.0,"Name":"Зародыш белого медведя"}
+{"Id":"res63","typecost":"silver","cost_buy":10,"cost_sell":1,"probably":100.0,"Name":"Чистая вода"}
+{"Id":"res64","typecost":"silver","cost_buy":1000,"cost_sell":100,"probably":10.0,"Name":"Благословленная вода"}
+{"Id":"res65","typecost":"silver","cost_buy":10,"cost_sell":1,"probably":20.0,"Name":"Песок"}
+{"Id":"res66","typecost":"silver","cost_buy":1000,"cost_sell":100,"probably":1.0,"Name":"Бутылочка для зелья здоровья малая"}
+{"Id":"res67","typecost":"silver","cost_buy":1000,"cost_sell":100,"probably":1.0,"Name":"Бутылочка для зелья здоровья средняя"}
+{"Id":"res68","typecost":"silver","cost_buy":1000,"cost_sell":100,"probably":1.0,"Name":"Бутылочка для зелья здоровья большая"}
+{"Id":"res69","typecost":"silver","cost_buy":1000,"cost_sell":100,"probably":1.0,"Name":"Бутылочка для зелья ярости малая"}
+{"Id":"res70","typecost":"silver","cost_buy":1000,"cost_sell":100,"probably":1.0,"Name":"Бутылочка для зелья ярости средняя"}
+{"Id":"res71","typecost":"silver","cost_buy":1000,"cost_sell":100,"probably":1.0,"Name":"Бутылочка для зелья ярости большая"}
+{"Id":"res72","typecost":"silver","cost_buy":1000,"cost_sell":100,"probably":1.0,"Name":"Бутылочка для зелья маны малая"}
+{"Id":"res73","typecost":"silver","cost_buy":1000,"cost_sell":100,"probably":1.0,"Name":"Бутылочка для зелья маны средняя"}
+{"Id":"res74","typecost":"silver","cost_buy":1000,"cost_sell":100,"probably":1.0,"Name":"Бутылочка для зелья маны большая"}
+{"Id":"res75","typecost":"silver","cost_buy":1000,"cost_sell":100,"probably":1.0,"Name":"Бутылочка для зелья телепортации"}
+{"Id":"res76","typecost":"silver","cost_buy":1000,"cost_sell":100,"probably":1.0,"Name":"Бутылочка для зелья увл.встр.с монстром"}
+{"Id":"res77","typecost":"silver","cost_buy":500,"cost_sell":50,"probably":50.0,"Name":"Яд паука"}
+{"Id":"res78","typecost":"silver","cost_buy":500,"cost_sell":50,"probably":50.0,"Name":"Кровь мутировавшей крысы"}
+{"Id":"res79","typecost":"gold","cost_buy":3000,"cost_sell":300,"probably":0.1,"Name":"Янтарь"}
+{"Id":"res80","typecost":"gold","cost_buy":3000,"cost_sell":300,"probably":0.1,"Name":"Аметист"}
+{"Id":"res81","typecost":"gold","cost_buy":3000,"cost_sell":300,"probably":0.1,"Name":"Топаз"}
+{"Id":"res82","typecost":"gold","cost_buy":3000,"cost_sell":300,"probably":0.1,"Name":"Изумруд"}
+{"Id":"res83","typecost":"gold","cost_buy":3000,"cost_sell":300,"probably":0.1,"Name":"Рубин"}
+{"Id":"res84","typecost":"gold","cost_buy":3000,"cost_sell":300,"probably":0.1,"Name":"Сапфир"}
+{"Id":"res85","typecost":"gold","cost_buy":6000,"cost_sell":600,"probably":0.01,"Name":"Бриллиант"}
+{"Id":"res86","typecost":"gold","cost_buy":8000,"cost_sell":800,"probably":0.01,"Name":"Бриллиантовая пыль"}
+{"Id":"res87","typecost":"gold","cost_buy":8000,"cost_sell":800,"probably":0.01,"Name":"Бриллиантовые чернила"}
+{"Id":"res88","typecost":"gold","cost_buy":6000,"cost_sell":600,"probably":0.01,"Name":"Красные алмаз"}
+{"Id":"res89","typecost":"gold","cost_buy":8000,"cost_sell":800,"probably":0.01,"Name":"Алмазная пыль"}
+{"Id":"res90","typecost":"gold","cost_buy":10000,"cost_sell":1000,"probably":0.01,"Name":"Алмазная чернила"}
+{"Id":"res91","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":0.01,"Name":"Бриллиантовая бумага"}
+{"Id":"res92","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":0.01,"Name":"Алмазная бумага"}
+{"Id":"res93","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"Зародыш серо-красной крысы"}
+{"Id":"res94","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"зародыш Крыса в язвах"}
+{"Id":"res95","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"зародыш Серая крыса с язвами"}
+{"Id":"res96","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"зародыш Зеленая крыса с язвами"}
+{"Id":"res97","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"зародыш Черно-красная крыса"}
+{"Id":"res98","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"зародыш Коричневый паук"}
+{"Id":"res99","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"зародыш Черный паук"}
+{"Id":"res100","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"зародыш Черно-белый паук"}
+{"Id":"res101","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"зародыш Зеленый паук"}
+{"Id":"res102","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"зародыш гуль(коричневый)"}
+{"Id":"res103","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"зародыш разноцветный гуль"}
+{"Id":"res104","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"зародыш мертвый гуль (черный)"}
+{"Id":"res105","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"зародыш вожак (серый)"}
+{"Id":"res106","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"зародыш вампир(светло коричневый)"}
+{"Id":"res107","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"зародыш высший вампир (светло серый)"}
+{"Id":"res108","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"зародыш древний вампир(коричневый)"}
+{"Id":"res109","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"зародыш первородный (темно серый)"}
+{"Id":"res110","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"зародыш белый упырь"}
+{"Id":"res111","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"зародыш коричневый упырь"}
+{"Id":"res112","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"зародыш красный упырь"}
+{"Id":"res113","typecost":"gold","cost_buy":15000,"cost_sell":1500,"probably":10.0,"Name":"зародыш черный упырь"}

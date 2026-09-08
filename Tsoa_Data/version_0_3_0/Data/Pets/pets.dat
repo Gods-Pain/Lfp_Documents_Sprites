@@ -1,0 +1,24 @@
+{"id":"pet1","petName":"коричневая крыса","typecost":"silver","attack":25,"costbuy":2500,"costcell":250,"probably":25.0}
+{"id":"pet2","petName":"рыжая лиса","typecost":"silver","attack":50,"costbuy":5000,"costcell":500,"probably":20.0}
+{"id":"pet3","petName":"коричневый волк","typecost":"silver","attack":75,"costbuy":7500,"costcell":750,"probably":20.0}
+{"id":"pet4","petName":"коричневый медведь","typecost":"silver","attack":100,"costbuy":10000,"costcell":1000,"probably":15.0}
+{"id":"pet5","petName":"серая лиса","typecost":"silver","attack":125,"costbuy":12500,"costcell":1250,"probably":20.0}
+{"id":"pet6","petName":"серый волк","typecost":"silver","attack":150,"costbuy":15000,"costcell":1500,"probably":20.0}
+{"id":"pet7","petName":"серый медведь","typecost":"silver","attack":175,"costbuy":17500,"costcell":1750,"probably":20.0}
+{"id":"pet8","petName":"черная крыса","typecost":"silver","attack":200,"costbuy":20000,"costcell":2000,"probably":20.0}
+{"id":"pet9","petName":"черная лиса","typecost":"silver","attack":225,"costbuy":22500,"costcell":2250,"probably":15.0}
+{"id":"pet10","petName":"черный волк","typecost":"silver","attack":250,"costbuy":25000,"costcell":2500,"probably":15.0}
+{"id":"pet11","petName":"черный медведь","typecost":"silver","attack":275,"costbuy":27500,"costcell":2750,"probably":10.0}
+{"id":"pet12","petName":"белая крыса","typecost":"gold","attack":300,"costbuy":3000,"costcell":300,"probably":5.0}
+{"id":"pet13","petName":"белая лиса","typecost":"gold","attack":325,"costbuy":6000,"costcell":600,"probably":5.0}
+{"id":"pet14","petName":"белый волк","typecost":"gold","attack":350,"costbuy":9000,"costcell":900,"probably":5.0}
+{"id":"pet15","petName":"белый медведь","typecost":"gold","attack":375,"costbuy":12000,"costcell":1200,"probably":0.0}
+{"id":"pet16","petName":"Серо-красная крыса","typecost":"silver","attack":900,"costbuy":150000,"costcell":15000,"probably":1.0}
+{"id":"pet17","petName":"Крыса в язвах","typecost":"silver","attack":950,"costbuy":170000,"costcell":17000,"probably":1.0}
+{"id":"pet18","petName":"Серая крыса с язвами","typecost":"gold","attack":1000,"costbuy":15000,"costcell":1500,"probably":1.0}
+{"id":"pet19","petName":"Зеленая крыса с язвами","typecost":"gold","attack":1050,"costbuy":18000,"costcell":1800,"probably":1.0}
+{"id":"pet20","petName":"Черно-красная крыса","typecost":"gold","attack":1100,"costbuy":21000,"costcell":2100,"probably":1.0}
+{"id":"pet21","petName":"Коричневый паук","typecost":"silver","attack":1150,"costbuy":300000,"costcell":30000,"probably":1.0}
+{"id":"pet22","petName":"Черный паук","typecost":"silver","attack":1200,"costbuy":600000,"costcell":60000,"probably":1.0}
+{"id":"pet23","petName":"Черно-белый паук","typecost":"gold","attack":1250,"costbuy":27000,"costcell":2700,"probably":1.0}
+{"id":"pet24","petName":"Зеленый паук","typecost":"gold","attack":1300,"costbuy":30000,"costcell":3000,"probably":1.0}

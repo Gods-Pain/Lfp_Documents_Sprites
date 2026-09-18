@@ -1,0 +1,113 @@
+{"Id":"res1","TypeCost":"silver","CostBuy":100,"CostCell":10,"Probably":50.0,"Name":"Стальная пыль"}
+{"Id":"res2","TypeCost":"silver","CostBuy":200,"CostCell":20,"Probably":25.0,"Name":"Бронзовая пыль"}
+{"Id":"res3","TypeCost":"silver","CostBuy":300,"CostCell":30,"Probably":10.0,"Name":"Серебрянная пыль"}
+{"Id":"res4","TypeCost":"gold","CostBuy":10,"CostCell":1,"Probably":5.0,"Name":"Золотая пыль"}
+{"Id":"res5","TypeCost":"silver","CostBuy":10,"CostCell":1,"Probably":75.0,"Name":"Желе"}
+{"Id":"res6","TypeCost":"silver","CostBuy":10,"CostCell":1,"Probably":75.0,"Name":"Трава"}
+{"Id":"res7","TypeCost":"silver","CostBuy":10,"CostCell":1,"Probably":50.0,"Name":"Кожа"}
+{"Id":"res8","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":50.0,"Name":"Прах вампира"}
+{"Id":"res9","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":50.0,"Name":"Стальной слиток"}
+{"Id":"res10","TypeCost":"silver","CostBuy":2000,"CostCell":200,"Probably":25.0,"Name":"Бронзовый слиток"}
+{"Id":"res11","TypeCost":"silver","CostBuy":3000,"CostCell":300,"Probably":10.0,"Name":"Серебряный слиток"}
+{"Id":"res12","TypeCost":"gold","CostBuy":50,"CostCell":5,"Probably":5.0,"Name":"Золотой слиток"}
+{"Id":"res13","TypeCost":"gold","CostBuy":200,"CostCell":20,"Probably":0.10,"Name":"Адамантитовый слиток"}
+{"Id":"res14","TypeCost":"gold","CostBuy":500,"CostCell":50,"Probably":0.10,"Name":"Платиновый слиток"}
+{"Id":"res15","TypeCost":"gold","CostBuy":50,"CostCell":5,"Probably":10.0,"Name":"Ядро друида"}
+{"Id":"res16","TypeCost":"gold","CostBuy":50,"CostCell":5,"Probably":10.0,"Name":"Черный цветок"}
+{"Id":"res17","TypeCost":"gold","CostBuy":50,"CostCell":5,"Probably":10.0,"Name":"Плод эволюции"}
+{"Id":"res18","TypeCost":"silver","CostBuy":10,"CostCell":1,"Probably":75.0,"Name":"Кости"}
+{"Id":"res19","TypeCost":"silver","CostBuy":10,"CostCell":1,"Probably":75.0,"Name":"Мясо"}
+{"Id":"res20","TypeCost":"silver","CostBuy":10,"CostCell":1,"Probably":75.0,"Name":"Злаки"}
+{"Id":"res21","TypeCost":"silver","CostBuy":500,"CostCell":50,"Probably":50.0,"Name":"Кровь вампиры"}
+{"Id":"res22","TypeCost":"gold","CostBuy":50,"CostCell":5,"Probably":25.0,"Name":"Бронзовый переплет"}
+{"Id":"res23","TypeCost":"gold","CostBuy":75,"CostCell":7,"Probably":10.0,"Name":"Серебряный переплет"}
+{"Id":"res24","TypeCost":"gold","CostBuy":100,"CostCell":10,"Probably":5.0,"Name":"Золотой переплет"}
+{"Id":"res25","TypeCost":"gold","CostBuy":50,"CostCell":5,"Probably":25.0,"Name":"Бронзовая бумага"}
+{"Id":"res26","TypeCost":"gold","CostBuy":75,"CostCell":7,"Probably":10.0,"Name":"Серебряная бумага"}
+{"Id":"res27","TypeCost":"gold","CostBuy":100,"CostCell":10,"Probably":5.0,"Name":"Золотая бумага"}
+{"Id":"res28","TypeCost":"gold","CostBuy":50,"CostCell":5,"Probably":25.0,"Name":"Бронзовые чернила"}
+{"Id":"res29","TypeCost":"gold","CostBuy":75,"CostCell":7,"Probably":10.0,"Name":"Серебряные чернила"}
+{"Id":"res30","TypeCost":"gold","CostBuy":100,"CostCell":10,"Probably":5.0,"Name":"Золотые чернила"}
+{"Id":"res31","TypeCost":"gold","CostBuy":100,"CostCell":10,"Probably":10.0,"Name":"Значок книги опыта"}
+{"Id":"res32","TypeCost":"gold","CostBuy":100,"CostCell":10,"Probably":10.0,"Name":"Значок книги души"}
+{"Id":"res33","TypeCost":"gold","CostBuy":100,"CostCell":10,"Probably":10.0,"Name":"Значок книги потенциала"}
+{"Id":"res34","TypeCost":"gold","CostBuy":100,"CostCell":10,"Probably":10.0,"Name":"Значок книги эволюции"}
+{"Id":"res35","TypeCost":"gold","CostBuy":100,"CostCell":10,"Probably":10.0,"Name":"Значок книги ядра"}
+{"Id":"res36","TypeCost":"gold","CostBuy":100,"CostCell":10,"Probably":10.0,"Name":"Значок книги скилла"}
+{"Id":"res37","TypeCost":"silver","CostBuy":10,"CostCell":1,"Probably":100.0,"Name":"Дерево"}
+{"Id":"res38","TypeCost":"silver","CostBuy":50,"CostCell":5,"Probably":50.0,"Name":"Кровь гуля"}
+{"Id":"res39","TypeCost":"silver","CostBuy":50,"CostCell":5,"Probably":50.0,"Name":"Кровь паука"}
+{"Id":"res40","TypeCost":"silver","CostBuy":50,"CostCell":5,"Probably":10.0,"Name":"Стальные скобки"}
+{"Id":"res41","TypeCost":"gold","CostBuy":50,"CostCell":10,"Probably":5.0,"Name":"Бронзовые скобки"}
+{"Id":"res42","TypeCost":"gold","CostBuy":75,"CostCell":7,"Probably":1.0,"Name":"Серебряные скобки"}
+{"Id":"res43","TypeCost":"gold","CostBuy":100,"CostCell":100,"Probably":0.10,"Name":"Золотые скобки"}
+{"Id":"res44","TypeCost":"gold","CostBuy":50,"CostCell":50,"Probably":5.0,"Name":"Бронзовые нитки"}
+{"Id":"res45","TypeCost":"gold","CostBuy":75,"CostCell":7,"Probably":1.0,"Name":"Серебряные нитки"}
+{"Id":"res46","TypeCost":"gold","CostBuy":100,"CostCell":10,"Probably":0.10,"Name":"Золотые нитки"}
+{"Id":"res47","TypeCost":"silver","CostBuy":10,"CostCell":1,"Probably":50.0,"Name":"Уголь"}
+{"Id":"res48","TypeCost":"silver","CostBuy":1500,"CostCell":150,"Probably":10.0,"Name":"Зародыш коричневой крысы"}
+{"Id":"res49","TypeCost":"silver","CostBuy":2000,"CostCell":200,"Probably":10.0,"Name":"Зародыш черной крысы"}
+{"Id":"res50","TypeCost":"silver","CostBuy":2500,"CostCell":250,"Probably":10.0,"Name":"Зародыш белой крысы"}
+{"Id":"res51","TypeCost":"silver","CostBuy":3000,"CostCell":300,"Probably":10.0,"Name":"Зародыш серой лисы"}
+{"Id":"res52","TypeCost":"silver","CostBuy":3500,"CostCell":350,"Probably":10.0,"Name":"Зародыш рыжей лисы"}
+{"Id":"res53","TypeCost":"silver","CostBuy":4000,"CostCell":400,"Probably":10.0,"Name":"Зародыш черной лисы"}
+{"Id":"res54","TypeCost":"silver","CostBuy":4500,"CostCell":450,"Probably":10.0,"Name":"Зародыш белой лисы"}
+{"Id":"res55","TypeCost":"silver","CostBuy":5000,"CostCell":500,"Probably":10.0,"Name":"Зародыш серого волка"}
+{"Id":"res56","TypeCost":"silver","CostBuy":5500,"CostCell":550,"Probably":10.0,"Name":"Зародыш коричневого волка"}
+{"Id":"res57","TypeCost":"silver","CostBuy":6000,"CostCell":600,"Probably":10.0,"Name":"Зародыш черного волка"}
+{"Id":"res58","TypeCost":"silver","CostBuy":6500,"CostCell":650,"Probably":10.0,"Name":"Зародыш белого волка"}
+{"Id":"res59","TypeCost":"silver","CostBuy":7000,"CostCell":700,"Probably":10.0,"Name":"Зародыш серого медведя"}
+{"Id":"res60","TypeCost":"silver","CostBuy":7500,"CostCell":750,"Probably":10.0,"Name":"Зародыш коричневого медведя"}
+{"Id":"res61","TypeCost":"silver","CostBuy":8000,"CostCell":800,"Probably":10.0,"Name":"Зародыш черного медведя"}
+{"Id":"res62","TypeCost":"silver","CostBuy":8500,"CostCell":850,"Probably":10.0,"Name":"Зародыш белого медведя"}
+{"Id":"res63","TypeCost":"silver","CostBuy":10,"CostCell":1,"Probably":100.0,"Name":"Чистая вода"}
+{"Id":"res64","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":10.0,"Name":"Благословленная вода"}
+{"Id":"res65","TypeCost":"silver","CostBuy":10,"CostCell":1,"Probably":20.0,"Name":"Песок"}
+{"Id":"res66","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья здоровья малая"}
+{"Id":"res67","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья здоровья средняя"}
+{"Id":"res68","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья здоровья большая"}
+{"Id":"res69","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья ярости малая"}
+{"Id":"res70","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья ярости средняя"}
+{"Id":"res71","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья ярости большая"}
+{"Id":"res72","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья маны малая"}
+{"Id":"res73","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья маны средняя"}
+{"Id":"res74","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья маны большая"}
+{"Id":"res75","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья телепортации"}
+{"Id":"res76","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья увл.встр.с монстром"}
+{"Id":"res77","TypeCost":"silver","CostBuy":500,"CostCell":50,"Probably":50.0,"Name":"Яд паука"}
+{"Id":"res78","TypeCost":"silver","CostBuy":500,"CostCell":50,"Probably":50.0,"Name":"Кровь мутировавшей крысы"}
+{"Id":"res79","TypeCost":"gold","CostBuy":3000,"CostCell":300,"Probably":0.1,"Name":"Янтарь"}
+{"Id":"res80","TypeCost":"gold","CostBuy":3000,"CostCell":300,"Probably":0.1,"Name":"Аметист"}
+{"Id":"res81","TypeCost":"gold","CostBuy":3000,"CostCell":300,"Probably":0.1,"Name":"Топаз"}
+{"Id":"res82","TypeCost":"gold","CostBuy":3000,"CostCell":300,"Probably":0.1,"Name":"Изумруд"}
+{"Id":"res83","TypeCost":"gold","CostBuy":3000,"CostCell":300,"Probably":0.1,"Name":"Рубин"}
+{"Id":"res84","TypeCost":"gold","CostBuy":3000,"CostCell":300,"Probably":0.1,"Name":"Сапфир"}
+{"Id":"res85","TypeCost":"gold","CostBuy":6000,"CostCell":600,"Probably":0.01,"Name":"Бриллиант"}
+{"Id":"res86","TypeCost":"gold","CostBuy":8000,"CostCell":800,"Probably":0.01,"Name":"Бриллиантовая пыль"}
+{"Id":"res87","TypeCost":"gold","CostBuy":8000,"CostCell":800,"Probably":0.01,"Name":"Бриллиантовые чернила"}
+{"Id":"res88","TypeCost":"gold","CostBuy":6000,"CostCell":600,"Probably":0.01,"Name":"Красные алмаз"}
+{"Id":"res89","TypeCost":"gold","CostBuy":8000,"CostCell":800,"Probably":0.01,"Name":"Алмазная пыль"}
+{"Id":"res90","TypeCost":"gold","CostBuy":10000,"CostCell":1000,"Probably":0.01,"Name":"Алмазная чернила"}
+{"Id":"res91","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":0.01,"Name":"Бриллиантовая бумага"}
+{"Id":"res92","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":0.01,"Name":"Алмазная бумага"}
+{"Id":"res93","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"Зародыш серо-красной крысы"}
+{"Id":"res94","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш Крыса в язвах"}
+{"Id":"res95","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш Серая крыса с язвами"}
+{"Id":"res96","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш Зеленая крыса с язвами"}
+{"Id":"res97","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш Черно-красная крыса"}
+{"Id":"res98","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш Коричневый паук"}
+{"Id":"res99","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш Черный паук"}
+{"Id":"res100","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш Черно-белый паук"}
+{"Id":"res101","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш Зеленый паук"}
+{"Id":"res102","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш гуль(коричневый)"}
+{"Id":"res103","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш разноцветный гуль"}
+{"Id":"res104","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш мертвый гуль (черный)"}
+{"Id":"res105","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш вожак (серый)"}
+{"Id":"res106","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш вампир(светло коричневый)"}
+{"Id":"res107","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш высший вампир (светло серый)"}
+{"Id":"res108","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш древний вампир(коричневый)"}
+{"Id":"res109","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш первородный (темно серый)"}
+{"Id":"res110","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш белый упырь"}
+{"Id":"res111","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш коричневый упырь"}
+{"Id":"res112","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш красный упырь"}
+{"Id":"res113","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш черный упырь"}

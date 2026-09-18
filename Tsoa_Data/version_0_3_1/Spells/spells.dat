@@ -1,0 +1,20 @@
+{"Id":"z1","Name":"малое зелье здоровья","TypeItem":"spell","TypeCost":"silver","CostBuy":1000,"CostSell":100,"Quality":"bad","TypeSpell":"health","Up":10,"TimeToCreate":60,"Probably":75.0}
+{"Id":"z2","Name":"среднее зелье здоровья","TypeItem":"spell","TypeCost":"silver","CostBuy":2500,"CostSell":250,"Quality":"good","TypeSpell":"health","Up":25,"TimeToCreate":180,"Probably":50.0}
+{"Id":"z3","Name":"большое зелье здоровья","TypeItem":"spell","TypeCost":"silver","CostBuy":5000,"CostSell":500,"Quality":"best","TypeSpell":"health","Up":50,"TimeToCreate":300,"Probably":25.0}
+{"Id":"z4","Name":"малое зелье маны","TypeItem":"spell","TypeCost":"silver","CostBuy":1000,"CostSell":100,"Quality":"bad","TypeSpell":"mana","Up":10,"TimeToCreate":60,"Probably":75.0}
+{"Id":"z5","Name":"среднее зелье маны","TypeItem":"spell","TypeCost":"silver","CostBuy":2500,"CostSell":250,"Quality":"good","TypeSpell":"mana","Up":25,"TimeToCreate":180,"Probably":50.0}
+{"Id":"z6","Name":"большое зелье маны","TypeItem":"spell","TypeCost":"silver","CostBuy":5000,"CostSell":500,"Quality":"best","TypeSpell":"mana","Up":50,"TimeToCreate":300,"Probably":25.0}
+{"Id":"z7","Name":"малое зелье ярости","TypeItem":"spell","TypeCost":"silver","CostBuy":1000,"CostSell":100,"Quality":"bad","TypeSpell":"fury","Up":10,"TimeToCreate":60,"Probably":75.0}
+{"Id":"z8","Name":"среднее зелье ярости","TypeItem":"spell","TypeCost":"silver","CostBuy":2500,"CostSell":250,"Quality":"good","TypeSpell":"fury","Up":25,"TimeToCreate":180,"Probably":50.0}
+{"Id":"z9","Name":"большое зелье ярости","TypeItem":"spell","TypeCost":"silver","CostBuy":5000,"CostSell":500,"Quality":"best","TypeSpell":"fury","Up":50,"TimeToCreate":300,"Probably":25.0}
+{"Id":"z10","Name":"зелье телепортации","TypeItem":"spell","TypeCost":"silver","CostBuy":10000,"CostSell":10,"Quality":"best","TypeSpell":"teleport","Up":100,"TimeToCreate":300,"Probably":50.0}
+{"Id":"z11","Name":"увеличение встречи с монстром","TypeItem":"spell","TypeCost":"silver","CostBuy":10000,"CostSell":2000,"Quality":"best","TypeSpell":"monstrAdd","Up":100,"TimeToCreate":300,"Probably":50.0}
+{"Id":"z12","Name":"малый камень бесконечности","TypeItem":"spell","TypeCost":"silver","CostBuy":750,"CostSell":75,"Quality":"bad","TypeSpell":"weaponStone","Up":200,"TimeToCreate":180,"Probably":75.0}
+{"Id":"z13","Name":"средний камень бесконечности","TypeItem":"spell","TypeCost":"silver","CostBuy":1250,"CostSell":125,"Quality":"good","TypeSpell":"weaponStone","Up":500,"TimeToCreate":240,"Probably":50.0}
+{"Id":"z14","Name":"большой камень бесконечности","TypeItem":"spell","TypeCost":"gold","CostBuy":100,"CostSell":10,"Quality":"best","TypeSpell":"weaponStone","Up":1000,"TimeToCreate":300,"Probably":25.0}
+{"Id":"z15","Name":"монеты арены уровня","TypeItem":"lvl_coin","TypeCost":"gold","CostBuy":5000,"CostSell":50,"Quality":"best","TypeSpell":"","Up":0,"TimeToCreate":0,"Probably":0.0}
+{"Id":"z16","Name":"монеты арены ранга","TypeItem":"rng_coin","TypeCost":"gold","CostBuy":5000,"CostSell":50,"Quality":"best","TypeSpell":"","Up":0,"TimeToCreate":0,"Probably":0.0}
+{"Id":"z17","Name":"монеты высшей арены","TypeItem":"bst_coin","TypeCost":"gold","CostBuy":5000,"CostSell":50,"Quality":"best","TypeSpell":"","Up":0,"TimeToCreate":0,"Probably":0.0}
+{"Id":"z18","Name":"билет атаки арены","TypeItem":"ar_ticket","TypeCost":"gold","CostBuy":5,"CostSell":1,"Quality":"best","TypeSpell":"","Up":0,"TimeToCreate":0,"Probably":0.0}
+{"Id":"z19","Name":"предмет добавлении статистик","TypeItem":"st_add","TypeCost":"gold","CostBuy":500000,"CostSell":50,"Quality":"best","TypeSpell":"","Up":0,"TimeToCreate":0,"Probably":0.0}
+{"Id":"z20","Name":"предмет смены класса","TypeItem":"ch_cl_pers","TypeCost":"gold","CostBuy":500000,"CostSell":50,"Quality":"best","TypeSpell":"","Up":0,"TimeToCreate":0,"Probably":0.0}

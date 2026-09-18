@@ -1,0 +1,24 @@
+{"Id":"pet1","Name":"коричневая крыса","TypeCost":"silver","Attack":25,"CostBuy":2500,"CostSell":250,"Probably":25.0}
+{"Id":"pet2","Name":"рыжая лиса","TypeCost":"silver","Attack":50,"CostBuy":5000,"CostSell":500,"Probably":20.0}
+{"Id":"pet3","Name":"коричневый волк","TypeCost":"silver","Attack":75,"CostBuy":7500,"CostSell":750,"Probably":20.0}
+{"Id":"pet4","Name":"коричневый медведь","TypeCost":"silver","Attack":100,"CostBuy":10000,"CostSell":1000,"Probably":15.0}
+{"Id":"pet5","Name":"серая лиса","TypeCost":"silver","Attack":125,"CostBuy":12500,"CostSell":1250,"Probably":20.0}
+{"Id":"pet6","Name":"серый волк","TypeCost":"silver","Attack":150,"CostBuy":15000,"CostSell":1500,"Probably":20.0}
+{"Id":"pet7","Name":"серый медведь","TypeCost":"silver","Attack":175,"CostBuy":17500,"CostSell":1750,"Probably":20.0}
+{"Id":"pet8","Name":"черная крыса","TypeCost":"silver","Attack":200,"CostBuy":20000,"CostSell":2000,"Probably":20.0}
+{"Id":"pet9","Name":"черная лиса","TypeCost":"silver","Attack":225,"CostBuy":22500,"CostSell":2250,"Probably":15.0}
+{"Id":"pet10","Name":"черный волк","TypeCost":"silver","Attack":250,"CostBuy":25000,"CostSell":2500,"Probably":15.0}
+{"Id":"pet11","Name":"черный медведь","TypeCost":"silver","Attack":275,"CostBuy":27500,"CostSell":2750,"Probably":10.0}
+{"Id":"pet12","Name":"белая крыса","TypeCost":"gold","Attack":300,"CostBuy":3000,"CostSell":300,"Probably":5.0}
+{"Id":"pet13","Name":"белая лиса","TypeCost":"gold","Attack":325,"CostBuy":6000,"CostSell":600,"Probably":5.0}
+{"Id":"pet14","Name":"белый волк","TypeCost":"gold","Attack":350,"CostBuy":9000,"CostSell":900,"Probably":5.0}
+{"Id":"pet15","Name":"белый медведь","TypeCost":"gold","Attack":375,"CostBuy":12000,"CostSell":1200,"Probably":0.0}
+{"Id":"pet16","Name":"Серо-красная крыса","TypeCost":"silver","Attack":900,"CostBuy":150000,"CostSell":15000,"Probably":1.0}
+{"Id":"pet17","Name":"Крыса в язвах","TypeCost":"silver","Attack":950,"CostBuy":170000,"CostSell":17000,"Probably":1.0}
+{"Id":"pet18","Name":"Серая крыса с язвами","TypeCost":"gold","Attack":1000,"CostBuy":15000,"CostSell":1500,"Probably":1.0}
+{"Id":"pet19","Name":"Зеленая крыса с язвами","TypeCost":"gold","Attack":1050,"CostBuy":18000,"CostSell":1800,"Probably":1.0}
+{"Id":"pet20","Name":"Черно-красная крыса","TypeCost":"gold","Attack":1100,"CostBuy":21000,"CostSell":2100,"Probably":1.0}
+{"Id":"pet21","Name":"Коричневый паук","TypeCost":"silver","Attack":1150,"CostBuy":300000,"CostSell":30000,"Probably":1.0}
+{"Id":"pet22","Name":"Черный паук","TypeCost":"silver","Attack":1200,"CostBuy":600000,"CostSell":60000,"Probably":1.0}
+{"Id":"pet23","Name":"Черно-белый паук","TypeCost":"gold","Attack":1250,"CostBuy":27000,"CostSell":2700,"Probably":1.0}
+{"Id":"pet24","Name":"Зеленый паук","TypeCost":"gold","Attack":1300,"CostBuy":30000,"CostSell":3000,"Probably":1.0}

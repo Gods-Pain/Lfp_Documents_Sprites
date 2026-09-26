@@ -1,0 +1,30 @@
+{"index":1,"gold_shop_id":"","id":"day1","itemid":"","name_reward":"","typeItem":"gold","usingprocess":"past","count":1000}
+{"index":2,"gold_shop_id":"","id":"day2","itemid":"z13","name_reward":"средний камень бесконечности","typeItem":"item","usingprocess":"past","count":15}
+{"index":3,"gold_shop_id":"","id":"day3","itemid":"","name_reward":"","typeItem":"silver","usingprocess":"past","count":5000}
+{"index":4,"gold_shop_id":"","id":"day4","itemid":"bk2","name_reward":"средняя книга уровня","typeItem":"book","usingprocess":"past","count":15}
+{"index":5,"gold_shop_id":"","id":"day5","itemid":"","name_reward":"","typeItem":"gold","usingprocess":"past","count":1000}
+{"index":6,"gold_shop_id":"","id":"day6","itemid":"bk5","name_reward":"средняя книга души","typeItem":"book","usingprocess":"past","count":15}
+{"index":7,"gold_shop_id":"","id":"day7","itemid":"","name_reward":"","typeItem":"silver","usingprocess":"past","count":5000}
+{"index":8,"gold_shop_id":"","id":"day8","itemid":"bk8","name_reward":"средняя книга потенциала","typeItem":"book","usingprocess":"past","count":15}
+{"index":9,"gold_shop_id":"","id":"day9","itemid":"","name_reward":"","typeItem":"gold","usingprocess":"past","count":1000}
+{"index":10,"gold_shop_id":"","id":"day10","itemid":"bk14","name_reward":"средняя книга ядра","typeItem":"book","usingprocess":"past","count":15}
+{"index":11,"gold_shop_id":"","id":"day11","itemid":"","name_reward":"","typeItem":"silver","usingprocess":"past","count":5000}
+{"index":12,"gold_shop_id":"","id":"day12","itemid":"bk17","name_reward":"средняя книга скила","typeItem":"book","usingprocess":"past","count":15}
+{"index":13,"gold_shop_id":"","id":"day13","itemid":"","name_reward":"","typeItem":"gold","usingprocess":"past","count":1000}
+{"index":14,"gold_shop_id":"","id":"day14","itemid":"bk11","name_reward":"средняя книга эволюции","typeItem":"book","usingprocess":"past","count":15}
+{"index":15,"gold_shop_id":"","id":"day15","itemid":"","name_reward":"","typeItem":"silver","usingprocess":"past","count":5000}
+{"index":16,"gold_shop_id":"","id":"day16","itemid":"z13","name_reward":"средний камень бесконечности","typeItem":"item","usingprocess":"past","count":15}
+{"index":17,"gold_shop_id":"","id":"day17","itemid":"","name_reward":"","typeItem":"gold","usingprocess":"past","count":1000}
+{"index":18,"gold_shop_id":"","id":"day18","itemid":"bk2","name_reward":"средняя книга уровня","typeItem":"book","usingprocess":"past","count":15}
+{"index":19,"gold_shop_id":"","id":"day19","itemid":"","name_reward":"","typeItem":"silver","usingprocess":"past","count":5000}
+{"index":20,"gold_shop_id":"","id":"day20","itemid":"bk5","name_reward":"средняя книга души","typeItem":"book","usingprocess":"past","count":15}
+{"index":21,"gold_shop_id":"","id":"day21","itemid":"","name_reward":"","typeItem":"gold","usingprocess":"past","count":1000}
+{"index":22,"gold_shop_id":"","id":"day22","itemid":"bk8","name_reward":"средняя книга потенциала","typeItem":"book","usingprocess":"past","count":15}
+{"index":23,"gold_shop_id":"","id":"day23","itemid":"","name_reward":"","typeItem":"silver","usingprocess":"past","count":5000}
+{"index":24,"gold_shop_id":"","id":"day24","itemid":"bk14","name_reward":"средняя книга ядра","typeItem":"book","usingprocess":"now","count":15}
+{"index":25,"gold_shop_id":"","id":"day25","itemid":"","name_reward":"","typeItem":"gold","usingprocess":"future","count":1000}
+{"index":26,"gold_shop_id":"","id":"day26","itemid":"bk17","name_reward":"средняя книга скила","typeItem":"book","usingprocess":"future","count":15}
+{"index":27,"gold_shop_id":"","id":"day27","itemid":"","name_reward":"","typeItem":"silver","usingprocess":"future","count":5000}
+{"index":28,"gold_shop_id":"","id":"day28","itemid":"bk11","name_reward":"средняя книга эволюции","typeItem":"book","usingprocess":"future","count":15}
+{"index":29,"gold_shop_id":"","id":"day29","itemid":"","name_reward":"","typeItem":"gold","usingprocess":"future","count":1000}
+{"index":30,"gold_shop_id":"","id":"day30","itemid":"z13","name_reward":"средний камень бесконечности","typeItem":"item","usingprocess":"future","count":15}

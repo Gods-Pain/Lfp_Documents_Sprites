@@ -1,0 +1,24 @@
+{"Id":"pet1","Name":"коричневая крыса","TypeCost":"silver","CostBuy":2500,"CostSell":250,"Attack":25,"Probably":25.0,"Multiple":5,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet2","Name":"рыжая лиса","TypeCost":"silver","CostBuy":5000,"CostSell":500,"Attack":50,"Probably":20.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet3","Name":"коричневый волк","TypeCost":"silver","CostBuy":7500,"CostSell":750,"Attack":75,"Probably":20.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet4","Name":"коричневый медведь","TypeCost":"silver","CostBuy":10000,"CostSell":1000,"Attack":100,"Probably":15.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet5","Name":"серая лиса","TypeCost":"silver","CostBuy":12500,"CostSell":1250,"Attack":125,"Probably":20.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet6","Name":"серый волк","TypeCost":"silver","CostBuy":15000,"CostSell":1500,"Attack":150,"Probably":20.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet7","Name":"серый медведь","TypeCost":"silver","CostBuy":17500,"CostSell":1750,"Attack":175,"Probably":20.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet8","Name":"черная крыса","TypeCost":"silver","CostBuy":20000,"CostSell":2000,"Attack":200,"Probably":20.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet9","Name":"черная лиса","TypeCost":"silver","CostBuy":22500,"CostSell":2250,"Attack":225,"Probably":15.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet10","Name":"черный волк","TypeCost":"silver","CostBuy":25000,"CostSell":2500,"Attack":250,"Probably":15.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet11","Name":"черный медведь","TypeCost":"silver","CostBuy":27500,"CostSell":2750,"Attack":275,"Probably":10.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet12","Name":"белая крыса","TypeCost":"silver","CostBuy":3000,"CostSell":300,"Attack":300,"Probably":5.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet13","Name":"белая лиса","TypeCost":"silver","CostBuy":6000,"CostSell":600,"Attack":325,"Probably":5.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet14","Name":"белый волк","TypeCost":"silver","CostBuy":9000,"CostSell":900,"Attack":350,"Probably":5.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet15","Name":"белый медведь","TypeCost":"silver","CostBuy":12000,"CostSell":1200,"Attack":375,"Probably":1.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet16","Name":"Серо-красная крыса","TypeCost":"silver","CostBuy":150000,"CostSell":15000,"Attack":900,"Probably":1.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet17","Name":"Крыса в язвах","TypeCost":"silver","CostBuy":170000,"CostSell":17000,"Attack":950,"Probably":1.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet18","Name":"Серая крыса с язвами","TypeCost":"silver","CostBuy":15000,"CostSell":1500,"Attack":1000,"Probably":1.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet19","Name":"Зеленая крыса с язвами","TypeCost":"silver","CostBuy":18000,"CostSell":1800,"Attack":1050,"Probably":1.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet20","Name":"Черно-красная крыса","TypeCost":"silver","CostBuy":21000,"CostSell":2100,"Attack":1100,"Probably":1.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet21","Name":"Коричневый паук","TypeCost":"silver","CostBuy":300000,"CostSell":30000,"Attack":1150,"Probably":1.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet22","Name":"Черный паук","TypeCost":"silver","CostBuy":600000,"CostSell":60000,"Attack":1200,"Probably":1.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet23","Name":"Черно-белый паук","TypeCost":"silver","CostBuy":27000,"CostSell":2700,"Attack":1250,"Probably":1.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}
+{"Id":"pet24","Name":"Зеленый паук","TypeCost":"silver","CostBuy":30000,"CostSell":3000,"Attack":1300,"Probably":1.0,"Multiple":0,"CraftAvaible":true,"Recipe":null}

@@ -1,0 +1,121 @@
+{"Id":"res1","TypeCost":"silver","CostBuy":100,"CostCell":10,"Probably":50.0,"Name":"Стальная пыль","CraftAvaible":true,"Recipe":null}
+{"Id":"res2","TypeCost":"silver","CostBuy":200,"CostCell":20,"Probably":25.0,"Name":"Бронзовая пыль","CraftAvaible":true,"Recipe":null}
+{"Id":"res3","TypeCost":"silver","CostBuy":300,"CostCell":30,"Probably":10.0,"Name":"Серебрянная пыль","CraftAvaible":true,"Recipe":null}
+{"Id":"res4","TypeCost":"gold","CostBuy":10,"CostCell":1,"Probably":5.0,"Name":"Золотая пыль","CraftAvaible":true,"Recipe":null}
+{"Id":"res5","TypeCost":"silver","CostBuy":10,"CostCell":1,"Probably":75.0,"Name":"Желе","CraftAvaible":false,"Recipe":null}
+{"Id":"res6","TypeCost":"silver","CostBuy":10,"CostCell":1,"Probably":75.0,"Name":"Трава","CraftAvaible":false,"Recipe":null}
+{"Id":"res7","TypeCost":"silver","CostBuy":10,"CostCell":1,"Probably":50.0,"Name":"Кожа","CraftAvaible":false,"Recipe":null}
+{"Id":"res8","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":50.0,"Name":"Прах вампира","CraftAvaible":false,"Recipe":null}
+{"Id":"res9","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":50.0,"Name":"Стальной слиток","CraftAvaible":true,"Recipe":null}
+{"Id":"res10","TypeCost":"silver","CostBuy":2000,"CostCell":200,"Probably":25.0,"Name":"Бронзовый слиток","CraftAvaible":true,"Recipe":null}
+{"Id":"res11","TypeCost":"silver","CostBuy":3000,"CostCell":300,"Probably":10.0,"Name":"Серебряный слиток","CraftAvaible":true,"Recipe":null}
+{"Id":"res12","TypeCost":"gold","CostBuy":50,"CostCell":5,"Probably":5.0,"Name":"Золотой слиток","CraftAvaible":true,"Recipe":null}
+{"Id":"res13","TypeCost":"gold","CostBuy":200,"CostCell":20,"Probably":0.1,"Name":"Адамантитовый слиток","CraftAvaible":true,"Recipe":null}
+{"Id":"res14","TypeCost":"gold","CostBuy":500,"CostCell":50,"Probably":0.1,"Name":"Платиновый слиток","CraftAvaible":true,"Recipe":null}
+{"Id":"res15","TypeCost":"gold","CostBuy":50,"CostCell":5,"Probably":10.0,"Name":"Ядро друида","CraftAvaible":false,"Recipe":null}
+{"Id":"res16","TypeCost":"gold","CostBuy":50,"CostCell":5,"Probably":10.0,"Name":"Черный цветок","CraftAvaible":false,"Recipe":null}
+{"Id":"res17","TypeCost":"gold","CostBuy":50,"CostCell":5,"Probably":10.0,"Name":"Плод эволюции","CraftAvaible":false,"Recipe":null}
+{"Id":"res18","TypeCost":"silver","CostBuy":10,"CostCell":1,"Probably":75.0,"Name":"Кости","CraftAvaible":true,"Recipe":null}
+{"Id":"res19","TypeCost":"silver","CostBuy":10,"CostCell":1,"Probably":75.0,"Name":"Мясо","CraftAvaible":true,"Recipe":null}
+{"Id":"res20","TypeCost":"silver","CostBuy":10,"CostCell":1,"Probably":75.0,"Name":"Злаки","CraftAvaible":false,"Recipe":null}
+{"Id":"res21","TypeCost":"silver","CostBuy":500,"CostCell":50,"Probably":50.0,"Name":"Кровь вампиры","CraftAvaible":false,"Recipe":null}
+{"Id":"res22","TypeCost":"gold","CostBuy":50,"CostCell":5,"Probably":25.0,"Name":"Бронзовый переплет","CraftAvaible":true,"Recipe":null}
+{"Id":"res23","TypeCost":"gold","CostBuy":75,"CostCell":7,"Probably":10.0,"Name":"Серебряный переплет","CraftAvaible":true,"Recipe":null}
+{"Id":"res24","TypeCost":"gold","CostBuy":100,"CostCell":10,"Probably":5.0,"Name":"Золотой переплет","CraftAvaible":true,"Recipe":null}
+{"Id":"res25","TypeCost":"gold","CostBuy":50,"CostCell":5,"Probably":25.0,"Name":"Бронзовая бумага","CraftAvaible":true,"Recipe":null}
+{"Id":"res26","TypeCost":"gold","CostBuy":75,"CostCell":7,"Probably":10.0,"Name":"Серебряная бумага","CraftAvaible":true,"Recipe":null}
+{"Id":"res27","TypeCost":"gold","CostBuy":100,"CostCell":10,"Probably":5.0,"Name":"Золотая бумага","CraftAvaible":true,"Recipe":null}
+{"Id":"res28","TypeCost":"gold","CostBuy":50,"CostCell":5,"Probably":25.0,"Name":"Бронзовые чернила","CraftAvaible":true,"Recipe":null}
+{"Id":"res29","TypeCost":"gold","CostBuy":75,"CostCell":7,"Probably":10.0,"Name":"Серебряные чернила","CraftAvaible":true,"Recipe":null}
+{"Id":"res30","TypeCost":"gold","CostBuy":100,"CostCell":10,"Probably":5.0,"Name":"Золотые чернила","CraftAvaible":true,"Recipe":null}
+{"Id":"res31","TypeCost":"gold","CostBuy":100,"CostCell":10,"Probably":10.0,"Name":"Значок книги опыта","CraftAvaible":true,"Recipe":null}
+{"Id":"res32","TypeCost":"gold","CostBuy":100,"CostCell":10,"Probably":10.0,"Name":"Значок книги души","CraftAvaible":true,"Recipe":null}
+{"Id":"res33","TypeCost":"gold","CostBuy":100,"CostCell":10,"Probably":10.0,"Name":"Значок книги потенциала","CraftAvaible":true,"Recipe":null}
+{"Id":"res34","TypeCost":"gold","CostBuy":100,"CostCell":10,"Probably":10.0,"Name":"Значок книги эволюции","CraftAvaible":true,"Recipe":null}
+{"Id":"res35","TypeCost":"gold","CostBuy":100,"CostCell":10,"Probably":10.0,"Name":"Значок книги ядра","CraftAvaible":true,"Recipe":null}
+{"Id":"res36","TypeCost":"gold","CostBuy":100,"CostCell":10,"Probably":10.0,"Name":"Значок книги скилла","CraftAvaible":true,"Recipe":null}
+{"Id":"res37","TypeCost":"silver","CostBuy":10,"CostCell":1,"Probably":100.0,"Name":"Дерево","CraftAvaible":false,"Recipe":null}
+{"Id":"res38","TypeCost":"silver","CostBuy":50,"CostCell":5,"Probably":50.0,"Name":"Кровь гуля","CraftAvaible":false,"Recipe":null}
+{"Id":"res39","TypeCost":"silver","CostBuy":50,"CostCell":5,"Probably":50.0,"Name":"Кровь паука","CraftAvaible":false,"Recipe":null}
+{"Id":"res40","TypeCost":"silver","CostBuy":50,"CostCell":5,"Probably":10.0,"Name":"Стальные скобки","CraftAvaible":true,"Recipe":null}
+{"Id":"res41","TypeCost":"gold","CostBuy":50,"CostCell":10,"Probably":5.0,"Name":"Бронзовые скобки","CraftAvaible":true,"Recipe":null}
+{"Id":"res42","TypeCost":"gold","CostBuy":75,"CostCell":7,"Probably":1.0,"Name":"Серебряные скобки","CraftAvaible":true,"Recipe":null}
+{"Id":"res43","TypeCost":"gold","CostBuy":100,"CostCell":100,"Probably":0.1,"Name":"Золотые скобки","CraftAvaible":true,"Recipe":null}
+{"Id":"res44","TypeCost":"gold","CostBuy":50,"CostCell":50,"Probably":5.0,"Name":"Бронзовые нитки","CraftAvaible":true,"Recipe":null}
+{"Id":"res45","TypeCost":"gold","CostBuy":75,"CostCell":7,"Probably":1.0,"Name":"Серебряные нитки","CraftAvaible":true,"Recipe":null}
+{"Id":"res46","TypeCost":"gold","CostBuy":100,"CostCell":10,"Probably":0.1,"Name":"Золотые нитки","CraftAvaible":true,"Recipe":null}
+{"Id":"res47","TypeCost":"silver","CostBuy":10,"CostCell":1,"Probably":50.0,"Name":"Уголь","CraftAvaible":true,"Recipe":null}
+{"Id":"res48","TypeCost":"silver","CostBuy":1500,"CostCell":150,"Probably":10.0,"Name":"Зародыш коричневой крысы","CraftAvaible":false,"Recipe":null}
+{"Id":"res49","TypeCost":"silver","CostBuy":2000,"CostCell":200,"Probably":10.0,"Name":"Зародыш черной крысы","CraftAvaible":false,"Recipe":null}
+{"Id":"res50","TypeCost":"silver","CostBuy":2500,"CostCell":250,"Probably":10.0,"Name":"Зародыш белой крысы","CraftAvaible":false,"Recipe":null}
+{"Id":"res51","TypeCost":"silver","CostBuy":3000,"CostCell":300,"Probably":10.0,"Name":"Зародыш серой лисы","CraftAvaible":false,"Recipe":null}
+{"Id":"res52","TypeCost":"silver","CostBuy":3500,"CostCell":350,"Probably":10.0,"Name":"Зародыш рыжей лисы","CraftAvaible":false,"Recipe":null}
+{"Id":"res53","TypeCost":"silver","CostBuy":4000,"CostCell":400,"Probably":10.0,"Name":"Зародыш черной лисы","CraftAvaible":false,"Recipe":null}
+{"Id":"res54","TypeCost":"silver","CostBuy":4500,"CostCell":450,"Probably":10.0,"Name":"Зародыш белой лисы","CraftAvaible":false,"Recipe":null}
+{"Id":"res55","TypeCost":"silver","CostBuy":5000,"CostCell":500,"Probably":10.0,"Name":"Зародыш серого волка","CraftAvaible":false,"Recipe":null}
+{"Id":"res56","TypeCost":"silver","CostBuy":5500,"CostCell":550,"Probably":10.0,"Name":"Зародыш коричневого волка","CraftAvaible":false,"Recipe":null}
+{"Id":"res57","TypeCost":"silver","CostBuy":6000,"CostCell":600,"Probably":10.0,"Name":"Зародыш черного волка","CraftAvaible":false,"Recipe":null}
+{"Id":"res58","TypeCost":"silver","CostBuy":6500,"CostCell":650,"Probably":10.0,"Name":"Зародыш белого волка","CraftAvaible":false,"Recipe":null}
+{"Id":"res59","TypeCost":"silver","CostBuy":7000,"CostCell":700,"Probably":10.0,"Name":"Зародыш серого медведя","CraftAvaible":false,"Recipe":null}
+{"Id":"res60","TypeCost":"silver","CostBuy":7500,"CostCell":750,"Probably":10.0,"Name":"Зародыш коричневого медведя","CraftAvaible":false,"Recipe":null}
+{"Id":"res61","TypeCost":"silver","CostBuy":8000,"CostCell":800,"Probably":10.0,"Name":"Зародыш черного медведя","CraftAvaible":false,"Recipe":null}
+{"Id":"res62","TypeCost":"silver","CostBuy":8500,"CostCell":850,"Probably":10.0,"Name":"Зародыш белого медведя","CraftAvaible":false,"Recipe":null}
+{"Id":"res63","TypeCost":"silver","CostBuy":10,"CostCell":1,"Probably":100.0,"Name":"Чистая вода","CraftAvaible":false,"Recipe":null}
+{"Id":"res64","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":10.0,"Name":"Благословленная вода","CraftAvaible":true,"Recipe":null}
+{"Id":"res65","TypeCost":"silver","CostBuy":10,"CostCell":1,"Probably":20.0,"Name":"Песок","CraftAvaible":false,"Recipe":null}
+{"Id":"res66","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья здоровья малая","CraftAvaible":true,"Recipe":null}
+{"Id":"res67","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья здоровья средняя","CraftAvaible":true,"Recipe":null}
+{"Id":"res68","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья здоровья большая","CraftAvaible":true,"Recipe":null}
+{"Id":"res69","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья ярости малая","CraftAvaible":true,"Recipe":null}
+{"Id":"res70","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья ярости средняя","CraftAvaible":true,"Recipe":null}
+{"Id":"res71","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья ярости большая","CraftAvaible":true,"Recipe":null}
+{"Id":"res72","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья маны малая","CraftAvaible":true,"Recipe":null}
+{"Id":"res73","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья маны средняя","CraftAvaible":true,"Recipe":null}
+{"Id":"res74","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья маны большая","CraftAvaible":true,"Recipe":null}
+{"Id":"res75","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья телепортации","CraftAvaible":true,"Recipe":null}
+{"Id":"res76","TypeCost":"silver","CostBuy":1000,"CostCell":100,"Probably":1.0,"Name":"Бутылочка для зелья увл.встр.с монстром","CraftAvaible":true,"Recipe":null}
+{"Id":"res77","TypeCost":"silver","CostBuy":500,"CostCell":50,"Probably":50.0,"Name":"Яд паука","CraftAvaible":false,"Recipe":null}
+{"Id":"res78","TypeCost":"silver","CostBuy":500,"CostCell":50,"Probably":50.0,"Name":"Кровь мутировавшей крысы","CraftAvaible":false,"Recipe":null}
+{"Id":"res79","TypeCost":"gold","CostBuy":3000,"CostCell":300,"Probably":0.1,"Name":"Янтарь","CraftAvaible":false,"Recipe":null}
+{"Id":"res80","TypeCost":"gold","CostBuy":3000,"CostCell":300,"Probably":0.1,"Name":"Аметист","CraftAvaible":false,"Recipe":null}
+{"Id":"res81","TypeCost":"gold","CostBuy":3000,"CostCell":300,"Probably":0.1,"Name":"Топаз","CraftAvaible":false,"Recipe":null}
+{"Id":"res82","TypeCost":"gold","CostBuy":3000,"CostCell":300,"Probably":0.1,"Name":"Изумруд","CraftAvaible":false,"Recipe":null}
+{"Id":"res83","TypeCost":"gold","CostBuy":3000,"CostCell":300,"Probably":0.1,"Name":"Рубин","CraftAvaible":false,"Recipe":null}
+{"Id":"res84","TypeCost":"gold","CostBuy":3000,"CostCell":300,"Probably":0.1,"Name":"Сапфир","CraftAvaible":false,"Recipe":null}
+{"Id":"res85","TypeCost":"gold","CostBuy":6000,"CostCell":600,"Probably":0.01,"Name":"Бриллиант","CraftAvaible":false,"Recipe":null}
+{"Id":"res86","TypeCost":"gold","CostBuy":8000,"CostCell":800,"Probably":0.01,"Name":"Бриллиантовая пыль","CraftAvaible":true,"Recipe":null}
+{"Id":"res87","TypeCost":"gold","CostBuy":8000,"CostCell":800,"Probably":0.01,"Name":"Бриллиантовые чернила","CraftAvaible":true,"Recipe":null}
+{"Id":"res88","TypeCost":"gold","CostBuy":6000,"CostCell":600,"Probably":0.01,"Name":"Красные алмаз","CraftAvaible":false,"Recipe":null}
+{"Id":"res89","TypeCost":"gold","CostBuy":8000,"CostCell":800,"Probably":0.01,"Name":"Алмазная пыль","CraftAvaible":true,"Recipe":null}
+{"Id":"res90","TypeCost":"gold","CostBuy":10000,"CostCell":1000,"Probably":0.01,"Name":"Алмазная чернила","CraftAvaible":true,"Recipe":null}
+{"Id":"res91","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":0.01,"Name":"Бриллиантовая бумага","CraftAvaible":true,"Recipe":null}
+{"Id":"res92","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":0.01,"Name":"Алмазная бумага","CraftAvaible":true,"Recipe":null}
+{"Id":"res93","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"Зародыш серо-красной крысы","CraftAvaible":false,"Recipe":null}
+{"Id":"res94","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш Крыса в язвах","CraftAvaible":false,"Recipe":null}
+{"Id":"res95","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш Серая крыса с язвами","CraftAvaible":false,"Recipe":null}
+{"Id":"res96","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш Зеленая крыса с язвами","CraftAvaible":false,"Recipe":null}
+{"Id":"res97","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш Черно-красная крыса","CraftAvaible":false,"Recipe":null}
+{"Id":"res98","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш Коричневый паук","CraftAvaible":false,"Recipe":null}
+{"Id":"res99","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш Черный паук","CraftAvaible":false,"Recipe":null}
+{"Id":"res100","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш Черно-белый паук","CraftAvaible":false,"Recipe":null}
+{"Id":"res101","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш Зеленый паук","CraftAvaible":false,"Recipe":null}
+{"Id":"res102","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш гуль(коричневый)","CraftAvaible":false,"Recipe":null}
+{"Id":"res103","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш разноцветный гуль","CraftAvaible":false,"Recipe":null}
+{"Id":"res104","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш мертвый гуль (черный)","CraftAvaible":false,"Recipe":null}
+{"Id":"res105","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш вожак (серый)","CraftAvaible":false,"Recipe":null}
+{"Id":"res106","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш вампир(светло коричневый)","CraftAvaible":false,"Recipe":null}
+{"Id":"res107","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш высший вампир (светло серый)","CraftAvaible":false,"Recipe":null}
+{"Id":"res108","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш древний вампир(коричневый)","CraftAvaible":false,"Recipe":null}
+{"Id":"res109","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш первородный (темно серый)","CraftAvaible":false,"Recipe":null}
+{"Id":"res110","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш белый упырь","CraftAvaible":false,"Recipe":null}
+{"Id":"res111","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш коричневый упырь","CraftAvaible":false,"Recipe":null}
+{"Id":"res112","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш красный упырь","CraftAvaible":false,"Recipe":null}
+{"Id":"res113","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"зародыш черный упырь","CraftAvaible":false,"Recipe":null}
+{"Id":"res114","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"темная ткань","CraftAvaible":false,"Recipe":null}
+{"Id":"res115","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":10.0,"Name":"светлая ткань","CraftAvaible":false,"Recipe":null}
+{"Id":"res116","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":5.0,"Name":"красная краска","CraftAvaible":false,"Recipe":null}
+{"Id":"res117","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":5.0,"Name":"синяя краска","CraftAvaible":false,"Recipe":null}
+{"Id":"res118","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":5.0,"Name":"зеленая краска","CraftAvaible":false,"Recipe":null}
+{"Id":"res119","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":5.0,"Name":"коричневая краска","CraftAvaible":false,"Recipe":null}
+{"Id":"res120","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":5.0,"Name":"черная краска","CraftAvaible":false,"Recipe":null}
+{"Id":"res121","TypeCost":"gold","CostBuy":15000,"CostCell":1500,"Probably":5.0,"Name":"белая краска","CraftAvaible":false,"Recipe":null}

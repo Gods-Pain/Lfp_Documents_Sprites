@@ -1,5 +1,5 @@
 {"Id":"bk1","Name":"малая книга уровня","Type":"level","Quality":"bad","TypeCost":"silver","CostBuy":500,"CostSell":50,"Points":150,"Probably":75.0,"CraftAvaible":true,"Recipe":null}
-{"Id":"bk2","Name":"средняя книга уровня","Type":"level","Quality":"good","TypeCost":"silver","CostBuy":500,"CostSell":50,"Points":250,"Probably":50.0,"CraftAvaible":true,"Recipe":null}
+{"Id":"bk2","Name":"средняя книга уровня","Type":"level","Quality":"good","TypeCost":"silver","CostBuy":1250,"CostSell":50,"Points":250,"Probably":50.0,"CraftAvaible":true,"Recipe":null}
 {"Id":"bk3","Name":"большая книга уровня","Type":"level","Quality":"best","TypeCost":"gold","CostBuy":20,"CostSell":2,"Points":500,"Probably":25.0,"CraftAvaible":true,"Recipe":null}
 {"Id":"bk4","Name":"малая книга души","Type":"soul","Quality":"bad","TypeCost":"silver","CostBuy":500,"CostSell":50,"Points":150,"Probably":75.0,"CraftAvaible":true,"Recipe":null}
 {"Id":"bk5","Name":"средняя книга души","Type":"soul","Quality":"good","TypeCost":"silver","CostBuy":1250,"CostSell":125,"Points":250,"Probably":50.0,"CraftAvaible":true,"Recipe":null}
